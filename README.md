@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola, soy [Juan Carlos Maya]! 👋
 
-<!--
-**Maya-Bytes/Maya-Bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy un estudiante apasionado por la tecnología y el software. Siempre estoy buscando aprender y mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## 🚀 Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Estudiando [Ingenieria en Sistemas Computacionales].
+- 🤔 Pregúntame sobre [Tecnología, Deportes, Videojuegos ,...].
+
+## 🛠 Lenguajes
+
+- **Lenguajes**: C#, HTML, CSS, SQL
+
+
+## 🌍 Conéctate conmigo
+
+- [Correo](https://www.linkedin.com/in/tu-nombre/)
+- [Instgram]([https://twitter.com/tu-nombre](https://www.instagram.com/jc_maya.dat/))
+- [Correo Electrónico](mailto:tu-correo@example.com)
+
+## 📝 Proyectos destacados
+
+- [Proyecto 1](link-al-proyecto): Descripción breve del proyecto.
+- [Proyecto 2](link-al-proyecto): Descripción breve del proyecto.
+- [Proyecto 3](link-al-proyecto): Descripción breve del proyecto.
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme. 🚀
+
