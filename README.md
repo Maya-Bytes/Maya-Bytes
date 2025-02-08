@@ -11,12 +11,12 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante apasionado por la tecnologí
 
 - **Lenguajes**: C#, HTML, CSS, SQL
 
+<!--
 ## 🌍 Conéctate conmigo
 
 - 📸 **Instagram:** [jc_maya.dat](https://www.instagram.com/jc_maya.dat/)
 - ✉️ **Email:** juanmaya400@gmail.com
   
-<!--
 ## 📝 Proyectos destacados
 
 - [Proyecto 1](link-al-proyecto): Descripción breve del proyecto.
