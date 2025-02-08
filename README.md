@@ -13,7 +13,6 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante apasionado por la tecnologí
 
 ## 🌍 Conéctate conmigo
 
-- [Correo](Juanmaya400@gmail.com)
 - 📸 **Instagram:** [jc_maya.dat](https://www.instagram.com/jc_maya.dat/)
 - ✉️ **Email:** juanmaya400@gmail.com
   
